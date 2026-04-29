@@ -14,7 +14,7 @@ const stages = [
     fact: "Even a small cluster of mangrove roots can help anchor coastal soil and trap sediment.",
     impact: "starting a fragile coastal patch",
     interpretation:
-      "Early roots begin stabilizing soil and creating the first layer of coastal protection.",
+      "A single mangrove starts something. Its roots anchor soil and trap sediment — where one grows, conditions improve for others to follow.",
     consequence: "Sediment begins to stabilize",
     signal: "Early protection",
     loss: {
@@ -23,7 +23,7 @@ const stages = [
       visual: "Bare mudflat exposed to surf and tide, with no roots to hold the soil.",
       fact: "Without root networks, even small waves can pull sediment off the shore.",
       interpretation:
-        "Bare soil is exposed, making the shoreline easier for waves and tides to erode.",
+        "Without root networks, even small waves pull sediment off the shore. The coast is losing ground with every tide.",
       impact: "exposing your coast to erosion",
       consequence: "Soil becomes exposed",
       signal: "Exposed shoreline",
@@ -39,7 +39,7 @@ const stages = [
     fact: "Mangroves can provide nursery habitat where young fish and crabs grow up more safely.",
     impact: "creating a Nursery for young marine life",
     interpretation:
-      "Young marine life gains shelter, helping support fisheries and coastal biodiversity.",
+      "Small clusters begin sheltering juvenile fish and crabs between their roots. The coast is still exposed, but life is quietly returning to the edges.",
     consequence: "Nursery habitat starts forming",
     signal: "Habitat support",
     loss: {
@@ -48,7 +48,7 @@ const stages = [
       visual: "Open water with nowhere for young fish or crabs to shelter.",
       fact: "Without sheltered roots, juvenile marine species lose vital nursery habitat.",
       interpretation:
-        "Young fish and crabs lose shelter, weakening the nursery habitat that supports marine life.",
+        "The buffer is gone. Wave energy reaches the shoreline unchecked, accelerating erosion and reducing habitat for fish that coastal communities depend on.",
       impact: "watching marine life vanish",
       consequence: "Nursery habitat is lost",
       signal: "Habitat loss",
@@ -64,7 +64,7 @@ const stages = [
     fact: "Dense mangrove belts can help reduce wave energy and slow coastal erosion.",
     impact: "helping build Coastal Protection",
     interpretation:
-      "The coastline gains a natural buffer that can help reduce wave impact and erosion.",
+      "A forming belt absorbs wave energy before it reaches shore. Communities behind this line begin to feel the difference during storms and high tides.",
     consequence: "Wave impact can be reduced",
     signal: "Coastal buffering",
     loss: {
@@ -73,7 +73,7 @@ const stages = [
       visual: "Waves slam directly into the shore with no buffer to slow them.",
       fact: "Without mangrove belts, wave energy reaches the coast unchecked.",
       interpretation:
-        "Waves hit the shore more directly, increasing erosion pressure on the coast.",
+        "Waves slam directly into the shore with nothing to slow them. Flood risk rises, fish nurseries collapse, and the coastline becomes harder and more expensive to protect.",
       impact: "leaving the coast unbuffered",
       consequence: "Wave impact increases",
       signal: "Direct wave pressure",
@@ -89,7 +89,7 @@ const stages = [
     fact: "Maturing mangrove zones can support biodiversity across mud, water, and canopy.",
     impact: "helping build a Biodiversity Hub",
     interpretation:
-      "A living ecosystem begins to support birds, crabs, fish, and healthier coastal habitats.",
+      "Birds, fish, crabs — the ecosystem is actively functioning across mud, water, and canopy. Carbon is being stored. The coastline is becoming self-sustaining.",
     consequence: "Biodiversity becomes more active",
     signal: "Ecosystem recovery",
     loss: {
@@ -98,7 +98,7 @@ const stages = [
       visual: "Quiet skies, empty mud, fading sounds of life.",
       fact: "Without canopy, mud, and roots, biodiversity fades across the system.",
       interpretation:
-        "Biodiversity fades as birds, fish, and crabs lose the habitat they depend on.",
+        "The ecosystem is breaking down. Sediment loss accelerates, biodiversity shrinks, and the coastline becomes increasingly vulnerable to storms and sea-level rise.",
       impact: "letting storms reach further inland",
       consequence: "Biodiversity declines",
       signal: "Ecosystem decline",
@@ -114,7 +114,7 @@ const stages = [
     fact: "Healthy mangrove forests can store blue carbon and contribute to long-term coastal resilience.",
     impact: "growing a Living Coastline",
     interpretation:
-      "A resilient coastline forms, supporting biodiversity, carbon storage, and natural coastal protection.",
+      "A full mangrove forest. Storm surge slows, sediment builds, species thrive. This is what a genuinely protected coast looks like.",
     consequence: "Coastal resilience increases",
     signal: "Resilient shoreline",
     loss: {
@@ -123,7 +123,7 @@ const stages = [
       visual: "Storms reach inland; the coast has no defenders left.",
       fact: "Without forests, coastal systems become fragile and vulnerable to storms.",
       interpretation:
-        "The coastline becomes fragile and vulnerable, increasing erosion and flood risk for nearby communities.",
+        "No defenders left. Even moderate storms reach inland. What took decades of ecosystem growth to build cannot be replaced by planting numbers alone — restoration takes time the coast no longer has.",
       impact: "watching your coastline collapse",
       consequence: "Flood and erosion risk rises",
       signal: "High vulnerability",
